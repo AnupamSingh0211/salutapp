@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277311881219",
+    "firebase_url": "https://salut-59ca0.firebaseio.com",
+    "project_id": "salut-59ca0",
+    "storage_bucket": "salut-59ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277311881219:android:bcca58200ad89d9c",
+        "android_client_info": {
+          "package_name": "com.app.salut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277311881219-lp80ubl2j90vtqdus53k04j2fld8cbr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSfOsrLvlx4EQtpRKerqMkquV5gC17Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
