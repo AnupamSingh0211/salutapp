@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.app.salut.app"
+        applicationId "com.app.salut"
         minSdkVersion 18
         targetSdkVersion 28
         versionCode 1
